@@ -1,0 +1,9 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+::selection {
+    background-color: #62e6b3;
+    color: #ffffff;
+}

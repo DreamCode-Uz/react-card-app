@@ -1,0 +1,11 @@
+a {
+    color: rgb(105, 103, 103);
+    text-decoration: none;
+    font-weight: 600;
+    font-family: "Courier New", Courier, monospace;
+}
+
+.user-profile {
+    width: 75%;
+    text-align: left;
+}

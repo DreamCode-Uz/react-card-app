@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.profile-avatar {
+    border: 0.5rem solid rgb(249, 251, 255);
+    border-radius: 50%;
+    box-shadow: 0 5px 15px 5px rgba(0, 0, 0, 0.3);
+    width: 90px;
+    height: 90px;
+    cursor: pointer;
+    object-fit: cover;
+}

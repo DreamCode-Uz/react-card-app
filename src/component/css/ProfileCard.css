@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.profile-card {
+    width: 520px;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    height: 100px;
+    align-items: center;
+    background-color: #62e6b3;
+    justify-content: space-between;
+    padding: 0 10px;
+}
